@@ -93,7 +93,7 @@ and the global average pooling avoids
 a stack of fully-connected layers at the end.
 The architecture is depicted below.
 
-![Full GoogLeNet Model](../img/downloads2.svg)
+![Full GoogLeNet Model](https://github.com/harrywinks/CUAI1st_paperstudy/blob/master/img/download2.svg)
 
 We can now implement GoogLeNet piece by piece.
 The first component uses a 64-channel 7×7 convolutional layer.
