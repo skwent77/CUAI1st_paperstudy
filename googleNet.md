@@ -20,7 +20,7 @@ The basic convolutional block in GoogLeNet is called an Inception block,
 likely named due to a quote from the movie Inception ("We Need To Go Deeper"),
 which launched a viral meme.
 
-![Structure of the Inception block. ](../img/inception.svg)
+![Structure of the Inception block](https://github.com/harrywinks/CUAI1st_paperstudy/tree/master/img/inception.svg)
 
 As depicted in the figure above,
 the inception block consists of four parallel paths.
