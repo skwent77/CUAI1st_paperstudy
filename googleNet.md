@@ -20,7 +20,7 @@ The basic convolutional block in GoogLeNet is called an Inception block,
 likely named due to a quote from the movie Inception ("We Need To Go Deeper"),
 which launched a viral meme.
 
-![Structure of the Inception block](https://github.com/harrywinks/CUAI1st_paperstudy/tree/master/img/inception.svg)
+![Structure of the Inception block](https://github.com/harrywinks/CUAI1st_paperstudy/tree/master/img/downloads1.svg)
 
 As depicted in the figure above,
 the inception block consists of four parallel paths.
@@ -93,7 +93,7 @@ and the global average pooling avoids
 a stack of fully-connected layers at the end.
 The architecture is depicted below.
 
-![Full GoogLeNet Model](../img/inception-full.svg)
+![Full GoogLeNet Model](../img/downloads2.svg)
 
 We can now implement GoogLeNet piece by piece.
 The first component uses a 64-channel 7×7 convolutional layer.
